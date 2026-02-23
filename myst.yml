@@ -21,6 +21,8 @@ project:
   # Table of contents — chapters added here as they are written
   toc:
     - file: index.md
+    - file: chapters/ch01-foundations.md
+      title: "Chapter 1: Foundations of National Security"
 
 site:
   title: "National Defense: A Modern Strategic Framework"
