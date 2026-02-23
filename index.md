@@ -26,4 +26,9 @@ This book is a work in progress. New chapters will be added over time.
 An exploration of the core principles of national defense, from Westphalian sovereignty to modern grand strategy.
 :::
 
+:::{grid-item-card} Chapter 2: Technology and the Cyber Domain
+:link: ./chapters/ch02-cyber.md
+Analyzing the impact of cyber warfare, artificial intelligence, and electronic warfare on modern defense strategy.
+:::
+
 :::
