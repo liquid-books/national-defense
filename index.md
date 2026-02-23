@@ -31,4 +31,9 @@ An exploration of the core principles of national defense, from Westphalian sove
 Analyzing the impact of cyber warfare, artificial intelligence, and electronic warfare on modern defense strategy.
 :::
 
+:::{grid-item-card} Chapter 3: Global Outlook and the Future of Defense
+:link: ./chapters/ch03-future.md
+Examining the shift toward multipolarity, the impact of climate change on security, and the future of international defense alliances.
+:::
+
 :::
